@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\acumulacion-de-valores\proyecto11.4\proyecto11.4\bin\Debug\proyecto11.4.exe.config
+D:\Programas\Cursos\C# ya\acumulacion-de-valores\proyecto11.4\proyecto11.4\bin\Debug\proyecto11.4.exe
+D:\Programas\Cursos\C# ya\acumulacion-de-valores\proyecto11.4\proyecto11.4\bin\Debug\proyecto11.4.pdb
+D:\Programas\Cursos\C# ya\acumulacion-de-valores\proyecto11.4\proyecto11.4\obj\Debug\proyecto11.4.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\acumulacion-de-valores\proyecto11.4\proyecto11.4\obj\Debug\proyecto11.4.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\acumulacion-de-valores\proyecto11.4\proyecto11.4\obj\Debug\proyecto11.4.exe
+D:\Programas\Cursos\C# ya\acumulacion-de-valores\proyecto11.4\proyecto11.4\obj\Debug\proyecto11.4.pdb
